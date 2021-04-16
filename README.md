@@ -1,2 +1,2 @@
-# Tumour-Detection
+# Tumour-Detection Belingn or Malingnant
 Classification
